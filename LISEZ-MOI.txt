@@ -1,0 +1,11 @@
+VALYDIUM LAUNCHER — PROJET COMPLET
+
+Le ZIP contient les fichiers de l'application Electron et le HTML VALYDIUM modifié.
+- Bouton « FERMER » : ferme la fenêtre du launcher.
+- Bouton « JOUER » : ouvre le Launcher Minecraft officiel.
+- L'adresse join1.severoo.com:55230 reste affichée, sans bouton copier.
+- Le visuel du minerai carré violet est intégré au HTML.
+
+ATTENTION : le bouton JOUER ouvre le launcher officiel mais ne garantit pas une connexion automatique au serveur. Un auto-join authentifié demande un lanceur Minecraft dédié et une connexion Microsoft officielle.
+
+Pour reconstruire : consultez README.md et le workflow .github/workflows/build-windows.yml.
